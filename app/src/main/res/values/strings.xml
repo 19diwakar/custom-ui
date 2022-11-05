@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomUI</string>
+    <string name="second_screen_header">Your Details</string>
+</resources>
